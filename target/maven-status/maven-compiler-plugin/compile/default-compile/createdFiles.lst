@@ -1,0 +1,5 @@
+pageObjectClasses\ProductPage.class
+pageObjectClasses\LoginPage.class
+abstarctComponents\AbstractComponents.class
+resources\ReportsOfexceution.class
+pageObjectClasses\CartPage.class
